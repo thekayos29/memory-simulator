@@ -84,6 +84,9 @@ After compiling the script, run the program.
 6. `stats` *( Fragmentation should be 0% if memory is contiguous)*
 7. `set_strategy` (best worst or first)
 
+   ## in vscode use g++ for compiling
+   
+
 ---
 **Author:** Swarnam Nitnaware 
 
