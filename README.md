@@ -85,10 +85,13 @@ After compiling the script, run the program.
 7. `set_strategy` (best worst or first)
 
    ## in vscode use g++ for compiling
+
+   run the main.cpp file for the memory simulator program downloading the include/src
+   
    
 
 ---
-**Author:** Swarnam Nitnaware 
+**Author:** Swarnam
 
 **Enrolment No:** 24123028
  
