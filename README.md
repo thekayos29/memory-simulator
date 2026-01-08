@@ -82,6 +82,7 @@ After compiling the script, run the program.
 4. `free 1`
 5. `dump` *(Check: Memory map should show block 1 is now FREE)*
 6. `stats` *( Fragmentation should be 0% if memory is contiguous)*
+7. `set_strategy` (best worst or first)
 
 ---
 **Author:** Swarnam Nitnaware 
